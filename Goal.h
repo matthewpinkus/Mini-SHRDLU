@@ -2,7 +2,6 @@
  * Data Structures and Algorithms
  * 15-04-2019
  * Assignment 1
- * ID:	1875 1084
  * Goal.h
  *
  * This class holds the values of all user desired goal positions
