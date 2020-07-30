@@ -2,7 +2,6 @@
  * Data Structures and Algorithms
  * 15-04-2019
  * Assignment 1
- * ID:	1875 1084
  * Action.h
  *
  * This class stores the values of actions used to manipulate the board in order to find
