@@ -2,7 +2,6 @@
  * Data Structures and Algorithms
  * 15-04-2019
  * Assignment 1
- * ID:	1875 1084
  * HumanInput.h
  *
  *  This class receives information from the user: Block to move, desired row/column positions
