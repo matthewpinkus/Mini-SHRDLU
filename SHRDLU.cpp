@@ -2,7 +2,6 @@
  * Data Structures and Algorithms
  * 15-04-2019
  * Assignment 1
- * ID:	1875 1084
  * SHRDLU.cpp
  *
  * Main file for Mini-SHRDLU.
